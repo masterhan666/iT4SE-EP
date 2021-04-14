@@ -6,20 +6,20 @@ Installation Process
 =========================
 Required Python Packages:
 
-Install: python (version >= 3.5)
-Install: sklearn (version >= 0.21.3)
-Install: numpy (version >= 1.17.4)
-Install: PyWavelets (version >= 1.1.1)
-Install: scipy (version >= 1.3.2)
+Install: python (version >= 3.5)  
+Install: sklearn (version >= 0.21.3)  
+Install: numpy (version >= 1.17.4)  
+Install: PyWavelets (version >= 1.1.1)  
+Install: scipy (version >= 1.3.2)  
 
-pip install < package name >
-example: pip install sklearn
+pip install < package name >  
+example: pip install sklearn  
 
-or
-We can download from anaconda cloud.
+or  
+We can download from anaconda cloud.  
 
 Usage
 =========================
-To run: $ iT4SE-EP(180D).py or iT4SE-EP(320D).py
+To run: $ iT4SE-EP(180D).py or iT4SE-EP(320D).py  
 
 The iT4SE-EP(180D).py and iT4SE-EP(320D).py files implement the SVM algorithm with RBF kernel and the RF feature selection method to train and evaluate the model. If you want to use different training and test data, please change the file name inside the file.
