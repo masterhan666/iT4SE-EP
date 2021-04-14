@@ -1,6 +1,6 @@
 iT4SE-EP
 =========================
-iT4SE-EP was developed for identifying T4SEs by extracting evolutionary features from the position-specific scoring matrix and the position-specific frequency matrix profiles. First, four types of encoding strategies were designed to transform protein sequences into fixed-length feature vectors based on the two profiles. Then, the feature selection technique based on the random forest algorithm was utilized to reduce redundant or irrelevant features without much loss of information. Finally, the optimal features were input into a support vector machine classifier to carry out the prediction of T4SEs.
+iT4SE-EP was developed for Gram-negative bacteria Type IV secretion effectors prediction. iT4SE-EP extracting evolutionary features from the position-specific scoring matrix and the position-specific frequency matrix profiles. First, four types of encoding strategies were designed to transform protein sequences into fixed-length feature vectors based on the two profiles. Then, the feature selection technique based on the random forest algorithm was utilized to reduce redundant or irrelevant features without much loss of information. Finally, the optimal features were input into a support vector machine classifier to carry out the prediction of T4SEs.
 
 Usage
 =========================
